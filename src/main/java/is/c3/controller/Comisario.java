@@ -34,7 +34,7 @@ public class Comisario {
 		
 	}
     private void printData() {
-    	System.out.println("Pinturas en la galería:");
+    	System.out.println("Pinturas en la galería LPC2191:");
 		// Mostrar todas las pinturas de la galería
 		System.out.println(galeria.findAll());
     	
